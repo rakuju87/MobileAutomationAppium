@@ -1,0 +1,12 @@
+[
+  {
+    "name": "samsung",
+    "deviceName": "ce071717a273409c0c",
+    "platformName": "Android",
+    "platformVersion": "9.0",
+    "automationName": "UIAutomator2",
+    "packageName": "com.samsung.android.calendar",
+    "activity": "com.samsung.android.app.calendar.activity.MainActivity",
+    "reset": true
+  }
+]
